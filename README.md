@@ -53,4 +53,4 @@ This detailed message is only shown when running in development mode.
 
 Here is a screenshot:
 
-![cannot_nav_root](pic.png)
+![cannot_nav_root](https://raw.githubusercontent.com/bitbythecron/vaadin-troubleshooting/master/screenshots/cannot_navigate.png)
